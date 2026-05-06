@@ -1,0 +1,1172 @@
+<!-- This is a literal text version of the Qualitron 2139 Calculator Manual. -->
+<!-- Typed in by hackerb9, just for fun May 2026. --
+<!-- All errors have been left standing.  Hopefully no new ones were added. -->
+
+
+OPERATION MANUAL
+QUALITRON FINANCIAL CALCULATOR
+
+MODEL 2139
+
+A PASSPORT FOR QUALITY
+ELECTRONIC CALCULATOR BUSINESS
+
+                               CONTENTS
+
+Features ..............................................................  1
+Specifications ........................................................  2
+Function of Keys ......................................................  3
+Power Source Operations ...............................................  4
+Note on Operations ....................................................  6
+Operation Guide .......................................................  7
+ Part One : General Operations ........................................  7
+  I.   Set Decimal Position ...........................................  7
+  II.  Four Species and Percentage Operations .........................  8
+  III. Overflow ....................................................... 12
+  IV.  Operations of Clear Key ........................................ 13
+ Part Two : Advanced Operations ....................................... 16
+  I.   Data Entry, Read and Clear All Operations ...................... 16
+  II.  Memory Operations .............................................. 19
+  III. Item Count, Summation, Averaging, Square Root and Sum of Squares
+       Operations ..................................................... 21
+  IV.  Delta Percentage Operations .................................... 22
+  V.   Trend Line Operations .......................................... 23
+  VI.  Cost, Sell, Margin Operations .................................. 25
+  VII. Financial Operations ........................................... 27
+
+FEATURES
+* 9-digit green tube display (8 digits mantissa with 1 digit sign)
+* Four separate memory registers
+* Accumulation operations
+* Entry, read and compute modes operations
+* Four arithmetic functions (+,-,×,÷)
+* Percentage operation with automatic add-on discount
+* Item count, square root, summation, averaging and summation of squares operations
+  (√ ̅, Σ, X̅)
+* Algebraic mode operations
+* Financial calculations (PV,FV,PMT,n,i,i/yr)
+* Sell, cost and margin calculations (SELL,COST,MARGIN)
+* Trend Line calculations (TL,TREND)
+* Delta percentage calculations (Δ%)
+* Decimal position selection key (DS)
+* Chain and constant operations
+* Leading zero suppression
+* Automatic power-on clear
+* Dome keyboard feeling comfortable and avoiding double input
+* Overflow indicator
+* AC/DC/Rechargeable batteries available
+
+
+
+SPECIFICATIONS
+
+Display:
+ 9-digit green digitron
+Keyboard:
+ 20-key with dome keyboard
+Switch:
+ ON-OFF: Power on-off switch
+Capacity:
+ 8 digits for data entry and results
+Decimal Point:
+ When power on automatically set to 2 and may be set with  DS  key following a
+ numerical number
+Negative Indicator:
+ '-' Symbol in the leftmost display position
+Overflow Indicator:
+ ' ⃩' symbol in the leftmost display position. Indicating the results exceed the
+ capacity of the calculator
+Operation:
+ Addition, Subtraction, Multiplication, Division, Percentage with Add-on and
+ Discount,Item Count, Summation, Averaging, Square Root, Sum of Squares, Change Sign,
+ Decimal Position Selection, Data Entry Mode, Read Mode, Compute Mode Operations,
+ Financial Operations, Cost, Sell  Margin Operations, Trend Line Operations, Delta
+ Percentage Operations, Four SeparateMemory Registers, Accumulation Operations.
+Ambient Temperature:
+ 0°C – 40°C (32°F – 104°F)
+Power Source:
+ DC with 4 pcs throw-away (UM-3 size) or rechargeable batteries.
+ AC with DC 6V 100ma output adaptor.
+Power Consumption:
+ DC 0.3W
+Dimension:
+ 142mm(L) × 77mm(W) × 32.5mm(H)
+
+
+Function of Keys
+
+ON/OFF Switch                                           Display
+
+Percentage / Delta Percentage   ╔═══════════════════╗   AC Socket
+Read / Compute                  ║ - 🯱 🯲 🯳 🯴 🯵 🯶 🯷 🯸 ║🭀
+                                ╟───────────────────╢🭐  Clear / Clear All
+7 / Number of Period            ║ ON/OFF            ║o⎸ Read / Data Entry
+ (Register 𝗻 recall key)        ╟────┬────┬────┬────╢█
+8 / Annual Interest Rate.       ║ %  │COMP│ENT │ C  ║█  Subtraction / Averaging
+                                ╟────┼────┼────┼────╢█  9 / Interest Rate per Period
+4 / Payment per Period          ║ 7  │ 8  │ 9  │ -  ║█  (Register 𝗶 recall key)
+ (Register 𝗔 recall key)        ╟────┼────┼────┼────╢█
+5 / Present Value               ║ 4  │ 5  │ 6  │ ÷  ║█  Division / Square Root
+ (Register 𝗕 recall key)        ╟────┼────┼────┼────╢█  6 / Future Value
+                                ║ 1  │ 2  │ 3  │ ×  ║█
+1 / Trend Line                  ╟────┼────┼────┼────╢█  Multiplication / Cost
+2 / Trend                       ║ 0  │ .  │ =  │ +  ║█  3/Sell
+                                ╚════╧════╧════╧════╝█
+0 / Change Sign                  🭤▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀  Addition / Summation
+. / Decimal Selection                                   Equal / Margin
+
+POWER SOURCE OPERATIONS:
+
+I.  BATTERY OPERATION:
+
+    Your calculator operates on 4 pcs. of UM-3 1.5 volts throw-away dry batteries.
+    Installing Batteries:
+     At rear of cabinet, press down (on arrow) while sliding compartment cover
+     downward to expose battery compartment. Place all batteries inside compartment and
+     slide cover upward until it lock securely in place.
+     Caution:
+      * When installing batteries the calculator switch should be in OFF position
+      * When not in use always keep ON/OFF switch in OFF position to conserve battery
+        power.
+      * If the calculator is not to be used for long periods of time, be sure to
+    remove the batteries.
+      * If your calculator fails to operate.  Replace a set of fresh batteries please!
+II. BATTERY CHARGING
+     This unit is rechargeable when using nickel cadmium batteries (optional equipment).
+
+    Charging Procedure:
+     * Insert 4 pcs. of nickel cadmium batteries to replace the regular throw-away
+       dry batteries into the battery compartment.
+     * Insert the plug at one end of cord of AC adaptor into the AC adaptor
+       jack located on the right side of the unit.
+     * Insert the other plug of the AC adaptor into the house power outlet.
+     * Takes 10 to 15 hours to charge the batteries, but do not charge longer than
+       15 houres.
+
+    Caution:
+     The batteries are charged whenever the AC adaptor is attached to the calculator
+     and the plug to the household power source. When the power switch is set at
+    "OFF" position the batteries are charged a little faster.
+
+III AC Operation
+
+     Your calculator is equipped to operate on AC household power source as well as
+     battery power.
+     To use this calculator on AC (electric) power you must attach an AC adaptor
+     (optional equipment) to the DC 6V receptacle (jack) at side of the calculator.
+     Since electric voltage varies in different countries you must be certain to
+     secure the proper adaptor and pulg for the area on which the calculator will
+     be used.
+     This calculator is operated with output DC 6 volts 100 ma AC adaptor. Using wrong
+     adaptor may damage your calculator.
+     When using an AC adaptor first attach to calculator jack and then attach plug to
+     household power source and then slide on the power switch.
+
+    Caution:
+     * If use throw-away dry batteries, you must remove away the batteries from the
+       battery compartment before plug-in AC adaptor.
+     * The rechargeable batteries are being charged whether the power switch is at
+       ON or OFF position.
+
+                 NOTE ON OPERATIONS
+
+In this model there are two kinds of display format, but they are all the same
+in operation, application and result!
+
+      Example :
+┌───────────────────────┬────────────────────┬───────────────────────────────┐
+│     Operations        │  Display Format A  │  Display Format B             │
+├───────────────────────┼────────────────────┼───────────────────────────────┤
+│      C                │  0.00              │  0.                           │
+├───────────────────────┼────────────────────┼───────────────────────────────┤
+│      1                │  1.                │  1.                           │
+├───────────────────────┼────────────────────┼───────────────────────────────┤
+│      +                │  1.00              │  1.                           │
+├───────────────────────┼────────────────────┼───────────────────────────────┤
+│      2                │  2.                │  2.                           │
+├───────────────────────┼────────────────────┼───────────────────────────────┤
+│      =                │  3.00              │  3.                           │
+├───────────────────────┼────────────────────┼───────────────────────────────┤
+│   C  ENT  DS  5       │  0.00000           │  0.                           │
+├───────────────────────┼────────────────────┼───────────────────────────────┤
+│      1  ÷  3  =       │  0.33333           │  0.33333                      │
+├───────────────────────┼────────────────────┼───────────────────────────────┤
+│      1  ÷  2  =       │  0.50000           │  0.5                          │
+├───────────────────────┼────────────────────┼───────────────────────────────┤
+│      ENT  DS  7       │  0.5000000         │  0.5                          │
+├───────────────────────┼────────────────────┼───────────────────────────────┤
+│      ENT  DS  8 (or 9)│  0.5               │  0.5  (Floating)              │
+└───────────────────────┴────────────────────┴───────────────────────────────┘
+
+The Operation Guide in this manual always deal with the display format A.
+Any difference, if any, will be described in detail in the operation examples.
+
+                         OPERATION      GUIDE
+
+PART ONE: GENERAL OPERATIONS
+
+ I.  Set Decimal Position
+
+         Decimal position may be set by depression of Numerical Key following ENT
+         DS keys.
+
+         Example 1: What will the number 21.38 display with different decimal point
+                    setting?
+   ┌────────────────────┬───────────────────┬─────────────────────────────────────┐
+   │     Operations     │      Display      │    Description                      │
+   ├────────────────────┼───────────────────┼─────────────────────────────────────┤
+   │ Power on           │  0.00             │                                     │
+   ├────────────────────┼───────────────────┼─────────────────────────────────────┤
+   │ 21.38              │  21.38            │  Data enter                         │
+   ├────────────────────┼───────────────────┼─────────────────────────────────────┤
+   │ ENT  DS  0         │  21.              │  DS key make 5/4 round              │
+   ├────────────────────┼───────────────────┼─────────────────────────────────────┤
+   │ ENT  DS  1         │  21.4             │  Set to 1                           │
+   ├────────────────────┼───────────────────┼─────────────────────────────────────┤
+   │ ENT  DS  5         │  21.38000         │  Set to 5                           │
+   ├────────────────────┼───────────────────┼─────────────────────────────────────┤
+   │ ENT  DS  7         │  21.380000        │  Set to 7                           │
+   ├────────────────────┼───────────────────┼─────────────────────────────────────┤
+   │ ENT  DS  8 (or 9)  │  21.38            │  Set to full floating               │
+   └────────────────────┴───────────────────┴─────────────────────────────────────┘
+
+
+
+        Example 2: What 22 ÷ 7 = will be displayed by different decimal point
+                   setting?
+   ┌────────────────────┬──────────────────┬───────────────────────────────────────┐
+   │     Operations     │    Display       │    Description                        │
+   ├────────────────────┼──────────────────┼───────────────────────────────────────┤
+   │ Power on           │ 0.00             │                                       │
+   ├────────────────────┼──────────────────┼───────────────────────────────────────┤
+   │ 22 ÷ 7 =           │ 3.14             │ When power─on automatically set to 2  │
+   ├────────────────────┼──────────────────┼───────────────────────────────────────┤
+   │ ENT  DS  0         │ 3.               │ Set to 0                              │
+   ├────────────────────┼──────────────────┼───────────────────────────────────────┤
+   │ ENT  DS  5         │ 3.14286          │ Set to 5                              │
+   ├────────────────────┼──────────────────┼───────────────────────────────────────┤
+   │ ENT  DS  4         │ 3.1429           │  DS  operations make 5/4 round        │
+   ├────────────────────┼──────────────────┼───────────────────────────────────────┤
+   │ ENT  DS  8 (or 9)  │ 3.1428571        │ Set to full floating                  │
+   └────────────────────┴──────────────────┴───────────────────────────────────────┘
+        Note : In the following examples decimal point is always set to 2 if don't
+               mention.
+
+II.  Four Species and Percentage Operations
+
+        Example 1: (1 + 4 - 3 + 5 - 6) × 8 ÷ 4 = 2
+  ┌─────────────────────┬──────────────────┬───────────────────────────────────┐
+  │     Operations      │    Display       │    Description                    │
+  ├─────────────────────┼──────────────────┼───────────────────────────────────┤
+  │  C                  │ 0.00             │ Clear display register            │
+  ├─────────────────────┼──────────────────┼───────────────────────────────────┤
+  │ 1 + 4 - 3 + 5 - 6 × │                  │                                   │
+  │ 8 ÷ 4 =             │ 2.00             │ Result                            │
+  └─────────────────────┴──────────────────┴───────────────────────────────────┘
+
+        Example 2: Repeat Operations
+                   1 + 2 + 2 + 2 - 3 - 3 = 1
+  ┌─────────────────────┬───────────────────┬───────────────────────────────────┐
+  │     Operations      │    Display        │    Description                    │
+  ├─────────────────────┼───────────────────┼───────────────────────────────────┤
+  │  C                  │ 0.00              │                                   │
+  ├─────────────────────┼───────────────────┼───────────────────────────────────┤
+  │ 1 + 2 =             │ 3.00              │                                   │
+  ├─────────────────────┼───────────────────┼───────────────────────────────────┤
+  │  =                  │ 5.00              │ Repeat plus 2                     │
+  ├─────────────────────┼───────────────────┼───────────────────────────────────┤
+  │  =                  │ 7.00              │ Repeat plus 2                     │
+  ├─────────────────────┼───────────────────┼───────────────────────────────────┤
+  │  - 3 =              │ 4.00              │ Minus 3 from temporary result     │
+  ├─────────────────────┼───────────────────┼───────────────────────────────────┤
+  │  =                  │ 1.00              │ Repeat minus 3                    │
+  └─────────────────────┴───────────────────┴───────────────────────────────────┘
+
+        Example 3: Constant Operations
+                   2 × 3 = 6   5 × 3 = 15   8 × 3 = 24
+  ┌─────────────────────┬──────────────────┬────────────────────────────────────┐
+  │     Operations      │    Display       │    Description                     │
+  ├─────────────────────┼──────────────────┼────────────────────────────────────┤
+  │  C                  │ 0.00             │                                    │
+  ├─────────────────────┼──────────────────┼────────────────────────────────────┤
+  │ 2 × 3 =             │ 6.00             │                                    │
+  ├─────────────────────┼──────────────────┼────────────────────────────────────┤
+  │ 5     =             │ 15.00            │ Store 3 as constant                │
+  ├─────────────────────┼──────────────────┼────────────────────────────────────┤
+  │ 8     =             │ 24.00            │ Store 3 as constant                │
+  └─────────────────────┴──────────────────┴────────────────────────────────────┘
+
+        Example 4: Constant Operations
+                   12 ÷ 3 = 4   15 ÷ 3 = 5    18 ÷ 3 = 6 ....
+  ┌─────────────────────┬──────────────────┬────────────────────────────────────┐
+  │     Operations      │    Display       │     Description                    │
+  ├─────────────────────┼──────────────────┼────────────────────────────────────┤
+  │  C                  │ 0.00             │                                    │
+  ├─────────────────────┼──────────────────┼────────────────────────────────────┤
+  │ 12 ÷ 3 =            │ 4.00             │                                    │
+  ├─────────────────────┼──────────────────┼────────────────────────────────────┤
+  │ 15     =            │ 5.00             │ Store 3 as constant                │
+  ├─────────────────────┼──────────────────┼────────────────────────────────────┤
+  │ 18     =            │ 6.00             │ Store 3 as constant                │
+  └─────────────────────┴──────────────────┴────────────────────────────────────┘
+        Example 5: 1500 × 20% = 300
+  ┌─────────────────────┬──────────────────┬────────────────────────────────────┐
+  │     Operations      │    Display       │ Description                        │
+  ├─────────────────────┼──────────────────┼────────────────────────────────────┤
+  │  C                  │ 0.00             │                                    │
+  ├─────────────────────┼──────────────────┼────────────────────────────────────┤
+  │ 1500 × 20           │ 20.              │ Enter multiplier and multicand     │
+  ├─────────────────────┼──────────────────┼────────────────────────────────────┤
+  │  %                  │ 300.00           │ Terminate the equation and get the │
+  │                     │                  │ result                             │
+  └─────────────────────┴──────────────────┴────────────────────────────────────┘
+        Example 6: 300 ÷ 1500 = 20%
+  ┌─────────────────────┬──────────────────┬────────────────────────────────────┐
+  │     Operations      │    Display       │    Description                     │
+  ├─────────────────────┼──────────────────┼────────────────────────────────────┤
+  │  C                  │ 0.00             │                                    │
+  ├─────────────────────┼──────────────────┼────────────────────────────────────┤
+  │ 300  ÷  1500  %     │ 20.00            │                                    │
+  └─────────────────────┴──────────────────┴────────────────────────────────────┘
+
+        Example 7: 120 × 30% = 36   360 × 30% = 108
+  ┌─────────────────────┬──────────────────┬────────────────────────────────┐
+  │ Operations          │    Display       │    Description                 │
+  ├─────────────────────┼──────────────────┼────────────────────────────────┤
+  │  C                  │ 0.00             │                                │
+  ├─────────────────────┼──────────────────┼────────────────────────────────┤
+  │ 120 × 30 %          │ 36.00            │                                │
+  ├─────────────────────┼──────────────────┼────────────────────────────────┤
+  │ 360      %          │ 108.00           │ Store 30 as constant           │
+  └─────────────────────┴──────────────────┴────────────────────────────────┘
+        Example 8: 36 ÷ 120 = 30%   48 ÷ 120 = 40%
+ ┌──────────────────────┬──────────────────┬────────────────────────────────────┐
+ │      Operation       │    Display       │   Description                      │
+ ├──────────────────────┼──────────────────┼────────────────────────────────────┤
+ │  C                   │ 0.00             │                                    │
+ ├──────────────────────┼──────────────────┼────────────────────────────────────┤
+ │ 36 ÷ 120 %           │ 30.00            │                                    │
+ ├──────────────────────┼──────────────────┼────────────────────────────────────┤
+ │ 48       %           │ 40.00            │ Store 120 as constant              │
+ └──────────────────────┴──────────────────┴────────────────────────────────────┘
+        Example 9: Add-on 1500 × (1 + 20%) = 1800
+  ┌─────────────────────┬──────────────────┬────────────────────────────────────┐
+  │     Operations      │    Display       │    Description                     │
+  ├─────────────────────┼──────────────────┼────────────────────────────────────┤
+  │  C                  │ 0.00             │                                    │
+  ├─────────────────────┼──────────────────┼────────────────────────────────────┤
+  │ 1500 +              │ 1500.00          │                                    │
+  ├─────────────────────┼──────────────────┼────────────────────────────────────┤
+  │ 20 %                │ 300.00           │ Store 1500 as constant and get     │
+  │                     │                  │ 1500 × 20% = 300                   │
+  ├─────────────────────┼──────────────────┼────────────────────────────────────┤
+  │  =                  │ 1800.00          │                                    │
+  └─────────────────────┴──────────────────┴────────────────────────────────────┘
+
+        Example 10: Discount 1500 × (1 - 20%) = 1200
+  ┌─────────────────────┬──────────────────┬────────────────────────────────────┐
+  │     Operations      │    Display       │    Description                     │
+  ├─────────────────────┼──────────────────┼────────────────────────────────────┤
+  │  C                  │ 0.00             │                                    │
+  ├─────────────────────┼──────────────────┼────────────────────────────────────┤
+  │ 1500 -              │ 1500.00          │                                    │
+  ├─────────────────────┼──────────────────┼────────────────────────────────────┤
+  │ 20 %                │ 300.00           │                                    │
+  ├─────────────────────┼──────────────────┼────────────────────────────────────┤
+  │  =                  │ 1200.00          │                                    │
+  └─────────────────────┴──────────────────┴────────────────────────────────────┘
+III.  Overflow
+        Example 1: Divided by zero
+  ┌─────────────────────┬──────────────────┬──────────────────────────────────────┐
+  │     Operations      │    Display       │    Description                       │
+  ├─────────────────────┼──────────────────┼──────────────────────────────────────┤
+  │  C                  │ 0.00             │                                      │
+  ├─────────────────────┼──────────────────┼──────────────────────────────────────┤
+  │ 3 ÷ 0 =             │ ⃩0.00             │ Indicate overflow and decimal set to │
+  │                     │                  │ 2 (as power on)                      │
+  ├─────────────────────┼──────────────────┼──────────────────────────────────────┤
+  │  C                  │ 0.00             │ Reset overflow condition             │
+  ├─────────────────────┼──────────────────┼──────────────────────────────────────┤
+  │  ENT  DS  5         │ 0.00000          │ set to 5                             │
+  ├─────────────────────┼──────────────────┼──────────────────────────────────────┤
+  │ 3 ÷ 0 =             │ ⃩0.00000          │                                      │
+  └─────────────────────┴──────────────────┴──────────────────────────────────────┘
+
+
+        Example 2: 1111111 × 1111111 = 1234567654321
+  ┌──────────────────┬──────────────────┬────────────────────────────────────────────┐
+  │     Operations   │       Display    │       Description                          │
+  ├──────────────────┼──────────────────┼────────────────────────────────────────────┤
+  │  C               │     0.00         │                                            │
+  ├──────────────────┼──────────────────┼────────────────────────────────────────────┤
+  │ 1111111  ×       │                  │                                            │
+  │ 1111111  =       │     ⃩12345.68     │    ⃩12345.68 × 10⁸                          │
+  │                  │                  │   Exceeding capacity of this calculator,   │
+  │                  │                  │   it display an overflow symbol, and the   │
+  │                  │                  │   result is 5/4 rounded with 10⁸ optional  │
+  └──────────────────┴──────────────────┴────────────────────────────────────────────┘
+IV.  Operations of Clear Key
+        Example 1: 2 + 3 + 6̸4 = 9
+  ┌───────────────────┬─────────────────┬───────────────────────────────────────┐
+  │     Operations    │      Display    │       Description                     │
+  ├───────────────────┼─────────────────┼───────────────────────────────────────┤
+  │  C                │    0.00         │                                       │
+  ├───────────────────┼─────────────────┼───────────────────────────────────────┤
+  │ 2  +  3  +        │    5.00         │                                       │
+  ├───────────────────┼─────────────────┼───────────────────────────────────────┤
+  │ 6  C              │    0.00         │    Correct wrong input                │
+  ├───────────────────┼─────────────────┼───────────────────────────────────────┤
+  │ 4  =              │    9.00         │                                       │
+  └───────────────────┴─────────────────┴───────────────────────────────────────┘
+        Note : Single depression of  C , clear displayed number but retain the
+               stored constant and the calculating mode.
+
+        Example 2: Repeat example 1, but depress  C  two times after 6.
+  ┌─────────────────────┬──────────────────┬────────────────────────────────────┐
+  │     Operations      │    Display       │    Description                     │
+  ├─────────────────────┼──────────────────┼────────────────────────────────────┤
+  │  C                  │ 0.00             │                                    │
+  ├─────────────────────┼──────────────────┼────────────────────────────────────┤
+  │ 2  +  3  +          │ 5.00             │                                    │
+  ├─────────────────────┼──────────────────┼────────────────────────────────────┤
+  │ 6  C  C             │ 0.00             │ Clear all                          │
+  ├─────────────────────┼──────────────────┼────────────────────────────────────┤
+  │ 4  =                │ 4.00             │                                    │
+  └─────────────────────┴──────────────────┴────────────────────────────────────┘
+        Note : Double depression of  C  clear displayed number and reset all
+               calculating modes.
+        Example 3: Clear Overflow Condition
+  ┌─────────────────────┬──────────────────┬────────────────────────────────────┐
+  │     Operations      │    Display       │    Description                     │
+  ├─────────────────────┼──────────────────┼────────────────────────────────────┤
+  │  C                  │ 0.00             │                                    │
+  ├─────────────────────┼──────────────────┼────────────────────────────────────┤
+  │ 55555555 +          │                  │                                    │
+  │ 66666666 =          │ ⃩1.22             │ 1.22 × 10⁸ (overflow)              │
+  ├─────────────────────┼──────────────────┼────────────────────────────────────┤
+  │  C                  │ 1.22             │ Clear overflow condition           │
+  ├─────────────────────┼──────────────────┼────────────────────────────────────┤
+  │ 11111111 =          │ 77777777         │ Previous data enty retained        │
+  └─────────────────────┴──────────────────┴────────────────────────────────────┘
+        Note : Single depression of  C  key clear overflow condition but retain
+               the displayed number, previous enter data and calculating mode.
+               Double depression of  C  key reset all modes.
+
+        Example 4:
+  ┌─────────────────────┬──────────────────┬────────────────────────────────────┐
+  │     Operations      │    Display       │    Description                     │
+  ├─────────────────────┼──────────────────┼────────────────────────────────────┤
+  │  C                  │ 0.00             │                                    │
+  ├─────────────────────┼──────────────────┼────────────────────────────────────┤
+  │  ENT  DS  4         │ 0.0000           │ Set to 4                           │
+  ├─────────────────────┼──────────────────┼────────────────────────────────────┤
+  │  1 ÷ 3 =            │ 0.3333           │                                    │
+  ├─────────────────────┼──────────────────┼────────────────────────────────────┤
+  │  C                  │ 0.0000           │                                    │
+  ├─────────────────────┼──────────────────┼────────────────────────────────────┤
+  │  1 ÷ 3 =            │ 0.3333           │ Retain  DS =4                      │
+  ├─────────────────────┼──────────────────┼────────────────────────────────────┤
+  │  C C                │ 0.0000           │                                    │
+  ├─────────────────────┼──────────────────┼────────────────────────────────────┤
+  │  1 ÷ 3 =            │ 0.3333           │ Retain  DS =4                      │
+  └─────────────────────┴──────────────────┴────────────────────────────────────┘
+        Note : Depression of  C  key leave decimal point unaffected.
+
+        * Clearing of memory registers is explained in PART TWO.
+
+PART TWO: ADVANCED OPERATIONS
+
+         This model has several special features:
+         Four separate memory registers (𝗔, 𝗕, 𝗻, 𝗶), "Data Entry Mode", "Compute
+         Mode" "Read Mode" Operations, Recall and Clear all registers operations.
+
+         (a) Data Entry Mode
+             This mode is initiated by depression  ENT  key. Data may enter to any
+             registers after  ENT  key.
+         (b) Compute Mode
+             This mode is initiated by depression  COMP  key.
+         (c) Read Mode
+             Sequences  COMP  READ  and  ENT  READ  all initiated this mode.
+         (d) Recall the Contents of the registers
+             The contents of four registers (𝗔, 𝗕, 𝗻, 𝗶) may be recalled by depression
+             PMT(A), PV(B), n, i key respectively after read mode is initiated.
+         (e) Clear all registers
+             Sequence  COMP  CA  clear all registers and reset all modes, but decimal
+             selection is unaffected.
+
+ I.  Data Entry, Read and Clear All Operations
+
+  ┌─────────────────────┬──────────────────┬────────────────────────────────────┐
+  │     Operations      │     Display      │    Description                     │
+  ├─────────────────────┼──────────────────┼────────────────────────────────────┤
+  │  C                  │ 0.00             │                                    │
+  ├─────────────────────┼──────────────────┼────────────────────────────────────┤
+  │ 100  ENT  PV(B)     │ 100.00           │ 100 enter to register 𝗕            │
+  ├─────────────────────┼──────────────────┼────────────────────────────────────┤
+  │ 50  ENT  PMT(A)     │ 50.00            │ 50 enter to register 𝗔             │
+  ├─────────────────────┼──────────────────┼────────────────────────────────────┤
+  │ 10  ENT  n          │ 10.00            │ 10 enter to register 𝗻             │
+  ├─────────────────────┼──────────────────┼────────────────────────────────────┤
+  │ 5  ENT  i           │ 5.00             │ 5 enter to register 𝗶              │
+  └─────────────────────┴──────────────────┴────────────────────────────────────┘
+
+  ┌─────────────────────┬──────────────────┬────────────────────────────────────┐
+  │     Operations      │    Display       │    Description                     │
+  ├─────────────────────┼──────────────────┼────────────────────────────────────┤
+  │  ENT  DS  5         │ 5.00000          │ Decimal point set to 5             │
+  ├─────────────────────┼──────────────────┼────────────────────────────────────┤
+  │ 1 ÷ 3 =             │ 0.33333          │                                    │
+  ├─────────────────────┼──────────────────┼────────────────────────────────────┤
+  │  C                  │ 0.00000          │ Clear display register             │
+  ├─────────────────────┼──────────────────┼────────────────────────────────────┤
+  │ 1 ÷ 3 =             │ 0.33333          │                                    │
+  ├─────────────────────┼──────────────────┼────────────────────────────────────┤
+  │  C C                │ 0.00000          │                                    │
+  ├─────────────────────┼──────────────────┼────────────────────────────────────┤
+  │ 1  ÷  3  =          │ 0.33333          │ Leave decimal point unaffected     │
+  ├─────────────────────┼──────────────────┼────────────────────────────────────┤
+  │  ENT  READ  PV(B)   │ 100.00000        │ Depressions of  C  key leave four  │
+  │                     │                  │ register 𝗔, 𝗕, 𝗻, 𝗶 unaffected!    │
+  ├─────────────────────┼──────────────────┼────────────────────────────────────┤
+  │  ENT  READ  PMT(A)  │ 50.00000         │ Recall 𝗔                           │
+  ├─────────────────────┼──────────────────┼────────────────────────────────────┤
+  │  ENT  READ  n       │ 10.00000         │ Recall 𝗻                           │
+  ├─────────────────────┼──────────────────┼────────────────────────────────────┤
+  │  ENT  READ  i       │ 5.00000          │ Recall 𝗶                           │
+  ├─────────────────────┼──────────────────┼────────────────────────────────────┤
+  │  COMP  CA           │ 0.00000          │ Clear all registers                │
+  ├─────────────────────┼──────────────────┼────────────────────────────────────┤
+  │  ENT  READ  PV(B)   │ 0.00000          │ Check above commet                 │
+  ├─────────────────────┼──────────────────┼────────────────────────────────────┤
+  │  ENT  READ  PMT(A)  │ 0.00000          │     "                              │
+  ├─────────────────────┼──────────────────┼────────────────────────────────────┤
+  │  ENT  READ  n       │ 0.00000          │     "                              │
+  ├─────────────────────┼──────────────────┼────────────────────────────────────┤
+  │  ENT  READ  i       │ 0.00000          │     "                              │
+  ├─────────────────────┼──────────────────┼────────────────────────────────────┤
+  │ 1  ÷  3  =          │ 0.33333          │ Decimal point is unaffected        │
+  └─────────────────────┴──────────────────┴────────────────────────────────────┘
+
+        Note : The capacity of 𝗔, 𝗕, 𝗻, 𝗶 registers are ±99999999, ±99999999,
+               +9999, ±99999999 respectively.
+  ┌───────────────────────┬────────────────┬───────────────────────────────────────┐
+  │     Operations        │  Display       │     Description                       │
+  ├───────────────────────┼────────────────┼───────────────────────────────────────┤
+  │ COMP  CA              │  0.00          │                                       │
+  ├───────────────────────┼────────────────┼───────────────────────────────────────┤
+  │99999999  ENT  PMT(A)  │  99999999.     │  Data enter                           │
+  ├───────────────────────┼────────────────┼───────────────────────────────────────┤
+  │ ENT  PV(B)            │  99999999.     │       "                               │
+  ├───────────────────────┼────────────────┼───────────────────────────────────────┤
+  │ ENT  n                │  99999999.     │                                       │
+  ├───────────────────────┼────────────────┼───────────────────────────────────────┤
+  │ ENT  i                │  99999999.     │                                       │
+  ├───────────────────────┼────────────────┼───────────────────────────────────────┤
+  │ ENT  READ  PMT(A)     │  99999999.     │  Recall                               │
+  ├───────────────────────┼────────────────┼───────────────────────────────────────┤
+  │ ENT  READ  PV(B)      │  99999999.     │    "                                  │
+  ├───────────────────────┼────────────────┼───────────────────────────────────────┤
+  │ ENT  READ  n          │  9999.         │    "                                  │
+  ├───────────────────────┼────────────────┼───────────────────────────────────────┤
+  │ ENT  READ  i          │  99999999.     │    "                                  │
+  ├───────────────────────┼────────────────┼───────────────────────────────────────┤
+  │ ENT  +/-              │  -99999999.    │  Change sign                          │
+  ├───────────────────────┼────────────────┼───────────────────────────────────────┤
+  │ ENT  PMT(A)           │  -99999999.    │                                       │
+  ├───────────────────────┼────────────────┼───────────────────────────────────────┤
+  │ ENT  READ  PMT(A)     │  -99999999     │  𝗔, 𝗕, 𝗶 can be stored positive and   │
+  │                       │                │  negative number                      │
+  ├───────────────────────┼────────────────┼───────────────────────────────────────┤
+  │1234.56  ENT  +/-      │  -1234.56      │                                       │
+  ├───────────────────────┼────────────────┼───────────────────────────────────────┤
+  │ ENT  n                │  -1234.56      │                                       │
+  ├───────────────────────┼────────────────┼───────────────────────────────────────┤
+  │ ENT  READ  n          │  3456.00       │  Register  𝗻  can be stored positive  │
+  │                       │                │  integer only.  To enter any number   │
+  │                       │                │  with decimal point or larger than    │
+  │                       │                │  9999 is meaningless.                 │
+  └───────────────────────┴────────────────┴───────────────────────────────────────┘
+
+II.  Memory Operations
+
+        Example 1:  (5 + 3) × (9 - 4) = 40
+  ┌───────────────────────┬─────────────────┬──────────────────────────────────────┐
+  │     Operations        │   Display       │    Description                       │
+  ├───────────────────────┼─────────────────┼──────────────────────────────────────┤
+  │  COMP  CA             │ 0.00            │                                      │
+  ├───────────────────────┼─────────────────┼──────────────────────────────────────┤
+  │ 5  +  3  =            │ 8.00            │                                      │
+  ├───────────────────────┼─────────────────┼──────────────────────────────────────┤
+  │  ENT  PMT(A)          │ 8.00            │ Store 8 in register 𝗔                │
+  ├───────────────────────┼─────────────────┼──────────────────────────────────────┤
+  │ 9  -  4  =            │ 5.00            │                                      │
+  ├───────────────────────┼─────────────────┼──────────────────────────────────────┤
+  │  ×  ENT  READ  PMT(A) │                 │                                      │
+  │       =               │ 40.00           │ Recall register 𝗔                    │
+  └───────────────────────┴─────────────────┴──────────────────────────────────────┘
+        Example 2:  (2 × 3) + (4 × 6)
+                    ───────────────── = 1.
+                    (9 × 8) - (6 × 7)
+  ┌───────────────────────┬─────────────────┬──────────────────────────────────────┐
+  │     Operations        │   Display       │    Description                       │
+  ├───────────────────────┼─────────────────┼──────────────────────────────────────┤
+  │  COMP  CA             │ 0.00            │                                      │
+  ├───────────────────────┼─────────────────┼──────────────────────────────────────┤
+  │ 9  ×  8  =            │ 72.00           │                                      │
+  ├───────────────────────┼─────────────────┼──────────────────────────────────────┤
+  │  ENT  PMT(A)          │ 72.00           │ Store 72 in register  𝗔              │
+  ├───────────────────────┼─────────────────┼──────────────────────────────────────┤
+  │ 6  ×  7  =  ENT  +/-  │ -42.00          │ Change sign                          │
+  ├───────────────────────┼─────────────────┼──────────────────────────────────────┤
+  │  +  ENT  READ  PMT(A) │                 │                                      │
+  │      =                │ 30.00           │ Recall 72 from register 𝗔 and add to │
+  │                       │                 │ -42                                  │
+  └───────────────────────┴─────────────────┴──────────────────────────────────────┘
+
+  ┌───────────────────────┬─────────────────┬─────────────────────────────────────┐
+  │     Operations        │    Display      │    Description                      │
+  ├───────────────────────┼─────────────────┼─────────────────────────────────────┤
+  │  ENT  PMT(A)          │ 30.00           │ 30 replace 72 in register 𝗔         │
+  ├───────────────────────┼─────────────────┼─────────────────────────────────────┤
+  │ 2  ×  3  =            │ 6.00            │                                     │
+  ├───────────────────────┼─────────────────┼─────────────────────────────────────┤
+  │  ENT  PV(B)           │ 6.00            │ Store 6 in register 𝗕               │
+  ├───────────────────────┼─────────────────┼─────────────────────────────────────┤
+  │ 4  ×  6 =             │ 24.00           │                                     │
+  ├───────────────────────┼─────────────────┼─────────────────────────────────────┤
+  │  +  ENT  READ  PV(B)  │                 │                                     │
+  │      =                │ 30.00           │                                     │
+  ├───────────────────────┼─────────────────┼─────────────────────────────────────┤
+  │  ÷  ENT  READ  PMT(A) │                 │                                     │
+  │     =                 │ 1.00            │                                     │
+  └───────────────────────┴─────────────────┴─────────────────────────────────────┘
+        Note : If a more complicated problem is solved temporary results may be
+               stored in four registers respectively.
+
+        Example 3: (2 × 3) + (4 × 5) + (6 × 7) = 68    (Accumulation Operations)
+  ┌──────────────────────┬─────────────────┬──────────────────────────────────────┐
+  │     Operations       │   Display       │    Description                       │
+  ├──────────────────────┼─────────────────┼──────────────────────────────────────┤
+  │  COMP  CA            │ 0.00            │                                      │
+  ├──────────────────────┼─────────────────┼──────────────────────────────────────┤
+  │ 2  ×  3  =           │ 6.00            │                                      │
+  ├──────────────────────┼─────────────────┼──────────────────────────────────────┤
+  │  ENT   Σ             │ 1.00            │ 6 store in register 𝗔, but display   │
+  │                      │                 │ item number                          │
+  ├──────────────────────┼─────────────────┼──────────────────────────────────────┤
+  │ 4  ×  5  =           │ 20.00           │                                      │
+  ├──────────────────────┼─────────────────┼──────────────────────────────────────┤
+  │  ENT   Σ             │ 2.00            │                                      │
+  ├──────────────────────┼─────────────────┼──────────────────────────────────────┤
+  │ 6  ×  7  =           │ 42.00           │                                      │
+  ├──────────────────────┼─────────────────┼──────────────────────────────────────┤
+  │  ENT   Σ             │ 3.00            │                                      │
+  ├──────────────────────┼─────────────────┼──────────────────────────────────────┤
+  │  ENT  READ  PMT(A)   │ 68.00           │                                      │
+  └──────────────────────┴─────────────────┴──────────────────────────────────────┘
+
+III. Item Count, Summation, Averaging, Square Root and Sum of Squares  Operations
+
+        Example : 2 + 3 + 4 + 5 + 6 Find
+                  (a) Item (b) Sum (c) Average (d) Sum of Squares
+                  (e) Square Root of (d)
+
+  ┌─────────────────────┬─────────────────┬────────────────────────────────────────┐
+  │     Operations      │   Display       │    Description                         │
+  ├─────────────────────┼─────────────────┼────────────────────────────────────────┤
+  │  COMP  CA           │ 0.00            │                                        │
+  ├─────────────────────┼─────────────────┼────────────────────────────────────────┤
+  │ 2  ENT   Σ          │ 1.00            │ Number 2 enter register 𝗔.  Its square │
+  │                     │                 │ enter register 𝗕, register "𝗻" increase│
+  │                     │                 │ by 1, register "𝗶" leave unaffected.   │
+  │                     │                 │ Display show item number.              │
+  ├─────────────────────┼─────────────────┼────────────────────────────────────────┤
+  │  ENT  READ  PMT(A)  │ 2.00            │ Check register 𝗔 only                  │
+  ├─────────────────────┼─────────────────┼────────────────────────────────────────┤
+  │  ENT  READ  PV(B)   │ 4.00            │ Check register 𝗕 only                  │
+  ├─────────────────────┼─────────────────┼────────────────────────────────────────┤
+  │  ENT  READ  n       │ 1.00            │ Check register 𝗻 only                  │
+  ├─────────────────────┼─────────────────┼────────────────────────────────────────┤
+  │  ENT  READ  i       │ 0.00            │ Check register 𝗶 only                  │
+  ├─────────────────────┼─────────────────┼────────────────────────────────────────┤
+  │ 3  ENT   Σ          │ 2.00            │ Item number increase to 2 from 1.      │
+  ├─────────────────────┼─────────────────┼────────────────────────────────────────┤
+  │ 4  ENT   Σ          │ 3.00            │                                        │
+  ├─────────────────────┼─────────────────┼────────────────────────────────────────┤
+  │ 5  ENT   Σ          │ 4.00            │                                        │
+  ├─────────────────────┼─────────────────┼────────────────────────────────────────┤
+  │ 6  ENT   Σ          │ 5.00            │                                        │
+  ├─────────────────────┼─────────────────┼────────────────────────────────────────┤
+  │  ENT  READ  PMT(A)  │ 20.00           │ Recall the accumulating storing in     │
+  │                     │                 │ register 𝗔                             │
+  └─────────────────────┴─────────────────┴────────────────────────────────────────┘
+
+  ┌─────────────────────┬─────────────────┬────────────────────────────────────────┐
+  │     Operations      │   Display       │     Description                        │
+  ├─────────────────────┼─────────────────┼────────────────────────────────────────┤
+  │  COMP  𝑥̅            │ 4.00            │ Average                                │
+  ├─────────────────────┼─────────────────┼────────────────────────────────────────┤
+  │  COMP  READ  PV(B)  │ 90.00           │ Recall sum of squares storing in       │
+  │                     │                 │ register 𝗕                             │
+  ├─────────────────────┼─────────────────┼────────────────────────────────────────┤
+  │  COMP  √            │ 9.49            │ Square root of (d)                     │
+  └─────────────────────┴─────────────────┴────────────────────────────────────────┘
+
+IV.  Delta Precentage Operations
+
+                                 Current - Last
+        Proagrmmed Formula  Δ% = ────────────── × 100
+                                     Last
+
+        Example : The net profits of a company in last three years are:
+                  1971      1972      1973
+                  2.75      3.03      2.96    (in millions)
+                  Find the increase percentage (respect to latter year)?
+  ┌──────────────────────┬──────────────────┬────────────────────────────────────────┐
+  │     Operations       │   Display        │   Description                          │
+  ├──────────────────────┼──────────────────┼────────────────────────────────────────┤
+  │  COMP  CA            │ 0.00             │                                        │
+  ├──────────────────────┼──────────────────┼────────────────────────────────────────┤
+  │ 2.75  ENT  Δ%        │ 2.75             │ Data enter to register 𝗔               │
+  ├──────────────────────┼──────────────────┼────────────────────────────────────────┤
+  │ 3.03  COMP  Δ%       │ 10.18            │(1972 to 1971) Now register 𝗔 content is│
+  │                      │                  │ replaced by 3.03                       │
+  ├──────────────────────┼──────────────────┼────────────────────────────────────────┤
+  │  ENT  READ  PMT(A)   │ 3.03             │ Check above commet only (optional)     │
+  ├──────────────────────┼──────────────────┼────────────────────────────────────────┤
+  │ 2.96  COMP  Δ%       │ ─2.31            │ 1973 to 1972                           │
+  └──────────────────────┴──────────────────┴────────────────────────────────────────┘
+
+V.  Trend Line Operations
+        In this mode use the least square technique.  So it's not only applied to
+        linear equations but also to random distributed data (as Example 2).
+        The line is defined to be ƒ(𝑛) = a₀ + a₁ 𝑛
+        When completion of data entry, the operation is followed by key Squence:
+        COMP  TL  ─────────────→ a₀ (interception)
+        ENT  READ  PMT(A) ─────→ a₁ (slope)
+        𝑛  ENT  n  COMP  TREND  → ƒ(𝑛)
+                                 🢑
+                            ƒ(n) │
+                                 │                     𜺀𜺀𜹜𜹜𜹓𜹓
+                                 │             . 𜺀𜺀𜹜𜹜𜹓𜹓
+                                 │        .𜺀𜺀𜹜𜹜𜹓𜹓    slope = a₁
+                                 │   𜺀𜺀𜹜𜹜𜹓𜹓
+                              a₀ │𜹜𜹓𜹓·
+                                 │
+                                ─┼────🮯────🮯────🮯────🮯─────────🢒
+                                      1    2    3    4        𝑛
+
+        All data points must be equally spaced and begin with point  number one!
+
+        Example 1: If ƒ(1) = 30, ƒ(2) = 40, ƒ(3) = 50  Find the interception
+                            slope and ƒ(5) = ?
+                                 🢑
+                            ƒ(𝑛) │
+                              ₈₀ ┤           🯐
+                              ₇₀ ┤         🯐🯑
+                              ₆₀ ┤       🯐🯑
+                              ₅₀ ┤     .🯑
+                              ₄₀ ┤   .🯑
+                              ₃₀ ┤ .🯑
+                              ₂₀ ┤🯑
+                              ₁₀ ┤
+                                ─┼─🮯─🮯─🮯─🮯─🮯────🢒
+                                   ¹ ² ³ ⁴ ⁵   𝑛
+
+  ┌──────────────────────┬─────────────────┬────────────────────────────────────────┐
+  │     Operations       │   Display       │    Description                         │
+  ├──────────────────────┼─────────────────┼────────────────────────────────────────┤
+  │  COMP  CA            │ 0.00            │                                        │
+  ├──────────────────────┼─────────────────┼────────────────────────────────────────┤
+  │ 30  ENT  TREND       │ 1.00            │ ƒ(1) enter  TREND but display show the │
+  │                      │                 │ sequence                               │
+  ├──────────────────────┼─────────────────┼────────────────────────────────────────┤
+  │ 40  ENT  TREND       │ 2.00            │                                        │
+  ├──────────────────────┼─────────────────┼────────────────────────────────────────┤
+  │ 50  ENT  TREND       │ 3.00            │                                        │
+  ├──────────────────────┼─────────────────┼────────────────────────────────────────┤
+  │  COMP  TL            │ 20.00           │ Get interception and storing in        │
+  │                      │                 │ register 𝗕.  And the slope is stored   │
+  │                      │                 │ in register 𝗔.                         │
+  ├──────────────────────┼─────────────────┼────────────────────────────────────────┤
+  │  ENT  READ  PMT(A)   │ 10.00           │ Slope                                  │
+  ├──────────────────────┼─────────────────┼────────────────────────────────────────┤
+  │ 5  ENT  n            │ 5.00            │ To compute ƒ(5)                        │
+  ├──────────────────────┼─────────────────┼────────────────────────────────────────┤
+  │  COMP  TREND         │ 70.00           │ ƒ(5) = 70.                             │
+  └──────────────────────┴─────────────────┴────────────────────────────────────────┘
+        Example 2: ƒ(1) = 5  ƒ(2) = 9  ƒ(3) = 8  find the interception and slop of
+                   the approximate (linear) equation ƒ′?  And check deviation between
+                   ƒ(1) = 5 and the approximate equation ƒ′(1)!
+                                  🢑
+                             ƒ(𝑛) │
+                               10 │         .    𜺀𜺀𜹜𜹜𜹓𜹓
+                                8 │        𜺀𜺀𜹜𜹜𜹓𜹓·
+                          ₄.₃₃⎽⎽6 │  𜺀𜺀𜹜𜹜𜹓𜹓
+                                4⎺𜸘𜹓𜹓  .} d=0.83
+                                2 │
+                           ───────┼────🮯────🮯────🮯────🮯────🮯───────🢒
+                                       1    2    3    4    5      𝑛
+
+  ┌──────────────────────┬─────────────────┬────────────────────────────────────────┐
+  │     Operations       │   Display       │    Description                         │
+  ├──────────────────────┼─────────────────┼────────────────────────────────────────┤
+  │  COMP  CA            │ 0.00            │                                        │
+  ├──────────────────────┼─────────────────┼────────────────────────────────────────┤
+  │ 5  ENT  TREND        │ 1.00            │                                        │
+  ├──────────────────────┼─────────────────┼────────────────────────────────────────┤
+  │ 9  ENT  TREND        │ 2.00            │                                        │
+  ├──────────────────────┼─────────────────┼────────────────────────────────────────┤
+  │ 8  ENT  TREND        │ 3.00            │                                        │
+  ├──────────────────────┼─────────────────┼────────────────────────────────────────┤
+  │  COMP  TL            │ 4.33            │ Interception                           │
+  ├──────────────────────┼─────────────────┼────────────────────────────────────────┤
+  │  ENT  READ  PMT(A)   │ 1.50            │ ƒ′(𝑛) = 4.33 + 1.50𝑛                   │
+  ├──────────────────────┼─────────────────┼────────────────────────────────────────┤
+  │ 1  ENT  n            │ 1.00            │ In order to get ƒ′(1)                  │
+  ├──────────────────────┼─────────────────┼────────────────────────────────────────┤
+  │  COMP  TREND         │ 5.83            │ ƒ′(1) = 5.83                           │
+  ├──────────────────────┼─────────────────┼────────────────────────────────────────┤
+  │  -  5  =             │ 0.83            │ Deviation                              │
+  └──────────────────────┴─────────────────┴────────────────────────────────────────┘
+        Note : Because use the approximation technique so the more data enter to
+               TREND the more accuracy will result.
+
+VI.  Cost, Sell, Margin Operations
+  ┌─────────────────────┬──────────────────────────────┬────────────────────┐
+  │     Operations      │    Programmed formula        │    Example         │
+  ├─────────────────────┼──────────────────────────────┼────────────────────┤
+  │                     │          Sell - Cost         │                    │
+  │  COMP  MARGIN       │ Margin = ─────────── × 100   │ 1                  │
+  │                     │              Sell            │                    │
+  ├─────────────────────┼──────────────────────────────┼────────────────────┤
+  │                     │           Cost               │                    │
+  │                     │ Sell = ───────────           │                    │
+  │  COMP  SELL         │            Margin            │ 2                  │
+  │                     │        1 - ──────            │                    │
+  │                     │             100              │                    │
+  ├─────────────────────┼──────────────────────────────┼────────────────────┤
+  │                     │        ⎛    Margin⎞          │                    │
+  │  COMP  COST         │ Cost = ⎜1 - ──────⎟ sell     │ 3                  │
+  │                     │        ⎝      100 ⎠          │                    │
+  └─────────────────────┴──────────────────────────────┴────────────────────┘
+
+        Example 1: The cost of a calculator is $65.  Find the margin
+                   if it's sold at $78?
+  ┌─────────────────────┬──────────────────┬──────────────────────────────────┐
+  │     Operations      │   Display        │    Description                   │
+  ├─────────────────────┼──────────────────┼──────────────────────────────────┤
+  │  COMP  CA           │ 0.00             │                                  │
+  ├─────────────────────┼──────────────────┼──────────────────────────────────┤
+  │ 65  ENT  COST       │ 65.00            │ Enter Cost                       │
+  ├─────────────────────┼──────────────────┼──────────────────────────────────┤
+  │ 78  ENT  SELL       │ 78.00            │ Enter Sell Price                 │
+  ├─────────────────────┼──────────────────┼──────────────────────────────────┤
+  │  COMP  MARGIN       │ 16.67            │                                  │
+  └─────────────────────┴──────────────────┴──────────────────────────────────┘
+        Example 2: In above example if want to get 20% Margin.  How much a
+                   calculator should be sold?
+  ┌─────────────────────┬──────────────────┬──────────────────────────────────┐
+  │     Operations      │   Display        │    Description                   │
+  ├─────────────────────┼──────────────────┼──────────────────────────────────┤
+  │  COMP  CA           │ 0.00             │                                  │
+  ├─────────────────────┼──────────────────┼──────────────────────────────────┤
+  │ 65  ENT  COST       │ 65.00            │                                  │
+  ├─────────────────────┼──────────────────┼──────────────────────────────────┤
+  │ 20  ENT  MARGIN     │ 20.00            │                                  │
+  ├─────────────────────┼──────────────────┼──────────────────────────────────┤
+  │  COMP  SELL         │ 81.25            │ $81.25                           │
+  └─────────────────────┴──────────────────┴──────────────────────────────────┘
+        Example 3: A coat is retailed for $16.4.  What can he afford to pay for it
+                   if a 35% margin is required?
+  ┌─────────────────────┬──────────────────┬──────────────────────────────────┐
+  │     Operations      │   Display        │    Description                   │
+  ├─────────────────────┼──────────────────┼──────────────────────────────────┤
+  │  COMP  CA           │ 0.00             │                                  │
+  ├─────────────────────┼──────────────────┼──────────────────────────────────┤
+  │ 16.4  ENT  SELL     │ 16.40            │                                  │
+  ├─────────────────────┼──────────────────┼──────────────────────────────────┤
+  │ 35  ENT  MARGIN     │ 35.00            │                                  │
+  ├─────────────────────┼──────────────────┼──────────────────────────────────┤
+  │  COMP  COST         │ 10.66            │                                  │
+  └─────────────────────┴──────────────────┴──────────────────────────────────┘
+
+VII. Financial Operations
+
+     PV   : Present Value     i    : Interest Rate per Period
+     FV   : Future Value      i/yr : Interest Rate per year
+     n    : Period            PMT  : Payment per period
+
+     * i  : May be used as interest (see Example 11)
+  ┌──────────────────┬─────────────────────────────┬──────────────────────────┐
+  │    Operations    │    Programmed Formula       │ Example                  │
+  ├──────────────────┼─────────────────────────────┼──────────────────────────┤
+  │  COMP  FV        │ a) FV = PV(1 + i)ⁿ          │    1                     │
+  │                  │    (known PV)               │                          │
+  │                  │ b)           (1 + i)ⁿ - 1   │                          │
+  │                  │    FV = PMT ─────────────   │    5                     │
+  │                  │                   i         │                          │
+  │                  │    ( known PMT )            │                          │
+  ├──────────────────┼─────────────────────────────┼──────────────────────────┤
+  │                  │ a)       FV                 │                          │
+  |  COMP  PV        │    PV = ────────            │    6                     │
+  │                  │         (1 + i)ⁿ            │                          │
+  │                  │    (known FV)               │                          │
+  │                  │ b)          (1 + i)ⁿ - 1    │                          │
+  │                  │    PV = PMT ────────────    │    7                     │
+  │                  │              i(1 + i)ⁿ      │                          │
+  │                  │    (known PMT)              │                          │
+  ├──────────────────┼─────────────────────────────┼──────────────────────────┤
+  │                  │ a)       PV i(1 + i)ⁿ       │                          │
+  │  COMP  PMT       │    PMT = ───────────        │   2,4                    │
+  │                  │          (1 + i)ⁿ - 1       │                          │
+  │                  │    (known PV)               │                          │
+  │                  │ b)          FV i            │                          │
+  │                  │    PMT = ───────────        │    3                     │
+  │                  │          (1 + i)ⁿ - 1       │                          │
+  │                  │    (known FV)               │                          │
+  ├──────────────────┼─────────────────────────────┼──────────────────────────┤
+  │  COMP  n         │                             │    4,8,9,10              │
+  ├──────────────────┼─────────────────────────────┼──────────────────────────┤
+  │  COMP  i         │                             │    11                    │
+  │  (interest)      │                             │                          │
+  └──────────────────┴─────────────────────────────┴──────────────────────────┘
+
+        Example 1: Invest $1,000 to be compounded annually at a rate of 6% for 7
+                   years.  Find the future value?
+  ┌─────────────────────┬──────────────────┬──────────────────────────────────────┐
+  │     Operations      │    Display       │    Description                       │
+  ├─────────────────────┼──────────────────┼──────────────────────────────────────┤
+  │  COMP  CA           │ 0.00             │                                      │
+  ├─────────────────────┼──────────────────┼──────────────────────────────────────┤
+  │ 1000  ENT  PV       │ 1000.00          │ Enter present value to register 𝗕    │
+  ├─────────────────────┼──────────────────┼──────────────────────────────────────┤
+  │ 6  ENT  i           │ 6.00             │ Enter interest rate to register 𝗶    │
+  ├─────────────────────┼──────────────────┼──────────────────────────────────────┤
+  │ 7  ENT  n           │ 7.00             │ Enter number of period to register 𝗻 │
+  ├─────────────────────┼──────────────────┼──────────────────────────────────────┤
+  │  COMP  FV           │ 1503.63          │ Find future value.   Using FV = PV   │
+  │                     │                  │ (1 + i)ⁿ                             │
+  └─────────────────────┴──────────────────┴──────────────────────────────────────┘
+        Example 2: Borrow $5,000 at 8% per year for 6 years.  How much the monthly
+                   payment is?
+  ┌─────────────────────┬──────────────────┬──────────────────────────────────────┐
+  │     Operations      │    Display       │    Description                       │
+  ├─────────────────────┼──────────────────┼──────────────────────────────────────┤
+  │  COMP  CA           │  0.00            │                                      │
+  ├─────────────────────┼──────────────────┼──────────────────────────────────────┤
+  │ 5000  ENT  PV       │  5000.0          │                                      │
+  ├─────────────────────┼──────────────────┼──────────────────────────────────────┤
+  │ 8  ENT  i/yr        │  8.00            │ To compute monthly payment, chang    │
+  │                     │                  │ interest rate per year to interest   │
+  │                     │                  │ per month by  i/yr  key              │
+  ├─────────────────────┼──────────────────┼──────────────────────────────────────┤
+  │ 6  ×  12  =  ENT  n │  72.00           │ 6 year = 72 months                   │
+  ├─────────────────────┼──────────────────┼──────────────────────────────────────┤
+  │  COMP  PMT          │  87.67           │                                      │
+  └─────────────────────┴──────────────────┴──────────────────────────────────────┘
+
+        Example 3: Want $15,000 in 9 years from now. What is monthly investment
+                   assuming interest 5% per year compounded monthly?
+  ┌─────────────────────┬──────────────────┬──────────────────────────────────────┐
+  │     Operations      │    Display       │    Description                       │
+  ├─────────────────────┼──────────────────┼──────────────────────────────────────┤
+  │  COMP  CA           │  0.00            │                                      │
+  ├─────────────────────┼──────────────────┼──────────────────────────────────────┤
+  │ 15000  ENT  FV      │  15000.0         │ Enter future value                   │
+  ├─────────────────────┼──────────────────┼──────────────────────────────────────┤
+  │ 5  ENT  i/yr        │  5.00            │ Change to interest per month         │
+  ├─────────────────────┼──────────────────┼──────────────────────────────────────┤
+  │ 9  ×  12  =  ENT  n │  108.00          │ 9 years = 108 months                 │
+  ├─────────────────────┼──────────────────┼──────────────────────────────────────┤
+  │  COMP  PMT          │  110.26          │                                      │
+  └─────────────────────┴──────────────────┴──────────────────────────────────────┘
+        Example 4: Borrow 3,600 at 8% per year, repay $200 per month.  How many
+                   months required to repay loan?  How much is the last payment?
+  ┌─────────────────────┬──────────────────┬───────────────────────────────────────┐
+  │     Operations      │    Display       │    Description                        │
+  ├─────────────────────┼──────────────────┼───────────────────────────────────────┤
+  │  COMP  CA           │ 0.00             │                                       │
+  ├─────────────────────┼──────────────────┼───────────────────────────────────────┤
+  │ 3600  ENT  PV       │ 3600.0           │ Enter present value                   │
+  ├─────────────────────┼──────────────────┼───────────────────────────────────────┤
+  │ 8  ENT  i/yr        │ 8.00             │ Change to interest per month          │
+  ├─────────────────────┼──────────────────┼───────────────────────────────────────┤
+  │ 200  ENT  PMT       │ 200.00           │ Enter payment per month               │
+  ├─────────────────────┼──────────────────┼───────────────────────────────────────┤
+  │  COMP  n            │ 20.00            │ It takes 20 months to repay the loan. │
+  ├─────────────────────┼──────────────────┼───────────────────────────────────────┤
+  │  ENT  READ  PMT  +  │ 200.00           │ Recall payment per month              │
+  ├─────────────────────┼──────────────────┼───────────────────────────────────────┤
+  │  ENT  READ  PV      │ -152.11          │ In the end of 20th month we pay 152.11│
+  │                     │                  │ more than we due to.                  │
+  ├─────────────────────┼──────────────────┼───────────────────────────────────────┤
+  │  =                  │ 47.89            │ The last payment                      │
+  └─────────────────────┴──────────────────┴───────────────────────────────────────┘
+
+        Example 5: Invest $1500 per month at 5% annual interest.  What will be the
+                   value at the end of 3 years?
+  ┌─────────────────────┬──────────────────┬──────────────────────────────────────┐
+  │     Operations      │    Display       │    Description                       │
+  ├─────────────────────┼──────────────────┼──────────────────────────────────────┤
+  │  COMP  CA           │  0.00            │                                      │
+  ├─────────────────────┼──────────────────┼──────────────────────────────────────┤
+  │ 1500  ENT  PMT      │  1500.00         │                                      │
+  ├─────────────────────┼──────────────────┼──────────────────────────────────────┤
+  │ 5  ENT  i/yr        │  5.00            │                                      │
+  ├─────────────────────┼──────────────────┼──────────────────────────────────────┤
+  │ 3  ×  12  =  ENT  n │  36.00           │ 3 years = 36 months                  │
+  ├─────────────────────┼──────────────────┼──────────────────────────────────────┤
+  │  COMP  FV           │  58130.25        │                                      │
+  └─────────────────────┴──────────────────┴──────────────────────────────────────┘
+        Example 6: Want $5000 in 3 years.  What is the present investment if the
+                   money is to be compounded monthly at 10% per year?
+  ┌─────────────────────┬──────────────────┬──────────────────────────────────────┐
+  │     Operations      │    Display       │    Description                       │
+  ├─────────────────────┼──────────────────┼──────────────────────────────────────┤
+  │  COMP  CA           │  0.00            │                                      │
+  ├─────────────────────┼──────────────────┼──────────────────────────────────────┤
+  │ 5000  ENT  FV       │  5000.00         │                                      │
+  ├─────────────────────┼──────────────────┼──────────────────────────────────────┤
+  │ 10  ENT  i/yr       │  10.00           │                                      │
+  ├─────────────────────┼──────────────────┼──────────────────────────────────────┤
+  │ 3  ×  12  =  ENT  n │   36.00          │                                      │
+  ├─────────────────────┼──────────────────┼──────────────────────────────────────┤
+  │  COMP  PV           │   3708.71        │                                      │
+  └─────────────────────┴──────────────────┴──────────────────────────────────────┘
+
+        Example 7: What is the equivalent present value of $1000
+                   invested per month for 3 years at 6% per year
+                   compounded monthly ?
+  ┌─────────────────────┬──────────────────┬──────────────────────────────────────────┐
+  │     Operations      │   Display        │    Description                           │
+  ├─────────────────────┼──────────────────┼──────────────────────────────────────────┤
+  │  COMP  CA           │ 0.00             │                                          │
+  ├─────────────────────┼──────────────────┼──────────────────────────────────────────┤
+  │ 1000  ENT  PMT      │ 1000.00          │                                          │
+  ├─────────────────────┼──────────────────┼──────────────────────────────────────────┤
+  │ 6  ENT  i/yr        │ 6.00             │                                          │
+  ├─────────────────────┼──────────────────┼──────────────────────────────────────────┤
+  │ 3  ×  12  =  ENT  n │ 36.00            │                                          │
+  ├─────────────────────┼──────────────────┼──────────────────────────────────────────┤
+  │  COMP  PV           │ 32870.99         │                                          │
+  └─────────────────────┴──────────────────┴──────────────────────────────────────────┘
+        Example 8: Borrow $1000 at 10% per month.  How many months are required to repay
+                   loan if repay $50 monthly?
+  ┌──────────────────────┬─────────────────┬──────────────────────────────────────────┐
+  │     Operations       │   Display       │    Description                           │
+  ├──────────────────────┼─────────────────┼──────────────────────────────────────────┤
+  │  COMP  CA            │ 0.00            │                                          │
+  ├──────────────────────┼─────────────────┼──────────────────────────────────────────┤
+  │ 1000  ENT  PV        │ 1000.00         │                                          │
+  ├──────────────────────┼─────────────────┼──────────────────────────────────────────┤
+  │ 10  ENT  i           │ 10.00           │                                          │
+  ├──────────────────────┼─────────────────┼──────────────────────────────────────────┤
+  │ 50  ENT  PMT         │ 50.00           │                                          │
+  ├──────────────────────┼─────────────────┼──────────────────────────────────────────┤
+  │  COMP  n             │ ⃩129.00          │ Overflow                                 │
+  └──────────────────────┴─────────────────┴──────────────────────────────────────────┘
+        Note : If to compute 𝗻 with an inadequate payment, display will show overflow
+               symbol and the number of periods required to overflow register 𝗕.
+
+        Example 9: Borrow $3,000 at rate 8% year. How many months are required to
+                   repay Loan!
+  ┌─────────────────────┬──────────────────┬───────────────────────────────────────┐
+  │     Operations      │    Display       │    Description                        │
+  ├─────────────────────┼──────────────────┼───────────────────────────────────────┤
+  │  COMP  CA           │ 0.00             │                                       │
+  ├─────────────────────┼──────────────────┼───────────────────────────────────────┤
+  │ 3000  ENT  PV       │ 3000.00          │                                       │
+  ├─────────────────────┼──────────────────┼───────────────────────────────────────┤
+  │ 8  ENT  i/yr        │ 8.00             │                                       │
+  ├─────────────────────┼──────────────────┼───────────────────────────────────────┤
+  │  COMP  n            │  ⃩0.00            │ Overflow                              │
+  └─────────────────────┴──────────────────┴───────────────────────────────────────┘
+
+      Note : If to compute n with zero payment will cause overflow in Display Format A.
+             and display will go blank in Display Format B.
+             In the latter format, please turn power off and on again!
+        Example 10: Repeat Example 9 with
+                    PMT = $-200!
+  ┌──────────────────────┬────────────────┬───────────────────────────────────────┐
+  │     Operations       │   Display      │    Description                        │
+  ├──────────────────────┼────────────────┼───────────────────────────────────────┤
+  │  COMP  CA            │ 0.00           │                                       │
+  ├──────────────────────┼────────────────┼───────────────────────────────────────┤
+  │ 3000  ENT  PV        │ 3000.00        │                                       │
+  ├──────────────────────┼────────────────┼───────────────────────────────────────┤
+  │ 8  ENT  i/yr         │ 8.00           │                                       │
+  ├──────────────────────┼────────────────┼───────────────────────────────────────┤
+  │ 200  ENT  +/-  ENT   │ -200.00        │                                       │
+  │  PMT                 │                │                                       │
+  ├──────────────────────┼────────────────┼───────────────────────────────────────┤
+  │  COMP  n             │ Go Blank!      │                                       │
+  └──────────────────────┴────────────────┴───────────────────────────────────────┘
+       Note : If to compute n with negative payment, display will go blank in both
+              Display Formats.
+              In Format A, depress  C  key and go ahead!
+              In Format B, turn power off and on again!
+
+        Example 11: Borrow $5000.00 at 9% interest over 3 years.
+                    (1) What are monthly payment ?
+                    (2) What are interest paid each year?
+                    (3) What are interest total paid?
+  ┌─────────────────────┬──────────────────┬──────────────────────────────────────┐
+  │     Operations      │    Display       │    Description                       │
+  ├─────────────────────┼──────────────────┼──────────────────────────────────────┤
+  │  COMP  CA           │  0.00            │                                      │
+  ├─────────────────────┼──────────────────┼──────────────────────────────────────┤
+  │ 36  ENT  n          │  36.00           │                                      │
+  ├─────────────────────┼──────────────────┼──────────────────────────────────────┤
+  │ 5000  ENT  PV       │  5000.00         │                                      │
+  ├─────────────────────┼──────────────────┼──────────────────────────────────────┤
+  │ 9  ENT  i/yr        │  9.00            │                                      │
+  ├─────────────────────┼──────────────────┼──────────────────────────────────────┤
+  │  COMP  PMT          │  159.00          │ Monthly payment                      │
+  ├─────────────────────┼──────────────────┼──────────────────────────────────────┤
+  │ 12  ENT  n          │  12.00           │                                      │
+  ├─────────────────────┼──────────────────┼──────────────────────────────────────┤
+  │  COMP  i            │  388.33          │ Interest paid over 1st year          │
+  ├─────────────────────┼──────────────────┼──────────────────────────────────────┤
+  │  COMP  i            │  245.78          │ Interest paid over 2nd year          │
+  ├─────────────────────┼──────────────────┼──────────────────────────────────────┤
+  │  COMP  i            │  89.85           │ Interest paid over 3rd year          │
+  ├─────────────────────┼──────────────────┼──────────────────────────────────────┤
+  │ 5000  ENT  PV       │  5000.00         │                                      │
+  ├─────────────────────┼──────────────────┼──────────────────────────────────────┤
+  │ 36  ENT  n          │  36.00           │                                      │
+  ├─────────────────────┼──────────────────┼──────────────────────────────────────┤
+  │  COMP  i            │  723.95          │ Interest total paid                  │
+  └─────────────────────┴──────────────────┴──────────────────────────────────────┘
+
+𜸚𜸟𜸤𜸜 𜸜𜸚𜸟𜸤𜸤  𜸤𜸞𜸠𜸥𜸜 𜸜   𜸛𜸟𜸥𜸜  𜸛𜸟𜸥𜸚𜸟𜸥𜸞𜸠𜸥𜸛𜸟𜸤𜸚𜸟𜸤𜸝𜸢𜸜𜸜𜸚𜸟𜸥   𜸚𜸟𜸥𜸚𜸟𜸤𜸤  𜸚𜸟𜸥𜸜 𜸜𜸜  𜸚𜸟𜸤𜸞𜸠𜸥𜸚𜸟𜸤𜸛𜸟𜸤
+𜸩 𜸩𜸩 𜸩𜸨𜸟𜸶𜸩  𜸩 𜸩 𜸫𜸳𜸻   𜸨𜸟 𜸩  𜸨𜸟 𜸩   𜸩 𜸨𜸟𜸷𜸩 𜸩𜸩𜸩𜸩𜸩𜸩     𜸩  𜸨𜸟𜸶𜸩  𜸩  𜸩 𜸩𜸩  𜸨𜸟𜸶 𜸩 𜸩 𜸩𜸨𜸟𜸷
+𜸾𜸟𜸷𜸾𜸟𜹃𜹃 𜸾𜸾𜸟𜸥𜸾 𜸼  𜸼    𜸾𜸟𜸥𜸾𜸟𜸥𜸾𜸟𜸥𜸾𜸟𜸥 𜸼 𜸼 𜸾𜸾𜸟𜹃𜸼𜸫𜹆𜸾𜸾𜸟𜸥   𜸾𜸟𜸥𜸼 𜸾𜸾𜸟𜸥𜸾𜸟𜸥𜸾𜸟𜹃𜸾𜸟𜸥𜸼 𜸼 𜸼 𜸾𜸟𜹃𜸼 𜸼
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      √𝑥̅                Σ
+                                COMP        PMT
+               🮭🮭🮦🮢   SELL                        🮣🮦🮬🮬
+               🮮🮩🮩🮩🮢       READ    ENT     𝑥̅     🮣🮨🮨🮨🮮
+               🯕🮡🮩 🮡🯓⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽ ⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽🯐🮠 🮨🮠🯗
+                🯔🮡────────────────🯜────────────────🮠🯖
+                🮡──────────────╮  │  ╭──────────────🮠
+                               🯗  │  🯕
+                              🯖   │   🯔                    𝔽𝕀ℕ𝔸ℕℂ𝕀𝔸𝕃 ℂ𝔸𝕃ℂ𝕌𝕃𝔸𝕋𝕆ℝ
+──────────────────────────────🮠   │   🮡────────────────────────────────────────────
+══════════════════════════════════╧════════════════════════════════════════════════
+⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺
